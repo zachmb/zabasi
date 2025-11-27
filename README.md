@@ -1,38 +1,59 @@
-# sv
+# SaaS Landing (Svelte)
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Thank you for purchasing. I hope it's going to be helpful for you.
 
-## Creating a project
+## Features
 
-If you're seeing this, you've probably already done this step. Congrats!
+- Tailwind CSS 4
+- daisyUI 5
+- Svelte 5.19
+- Typescript 5.7
 
-```sh
-# create a new project in the current directory
-npx sv create
+## Including
 
-# create a new project in my-app
-npx sv create my-app
+- 2 exclusive daisyUI themes (dark/light)
+- Compatible with all daisyUI themes (32 themes)
+- Responsive layout
+- Hero section, Partner logos, Features section, Integrations cards, Pricing tables, FAQ accordion section, Footer with links and contact form
+- Pricing table with dynamic price toggle
+- Theme changer menu
+- 3D card effect
+
+## Files
+
+- `src/App` - Landing page
+- `src/lib/components/` - components files
+- `src/styles/` - styles
+- `public/` - public files (images)
+- `svelte.config` - Svelte config file
+- `vite.config` - Vite config file
+- `postcss.config` - PostCSS config file
+- `tailwind.config` - Tailwind config file
+- `package.json`
+
+## Getting Started
+
+You can:
+
+- Install dependencies and run/build it using Vite
+
+## How to run
+
+1. Install dependencies
+
+```
+npm install
 ```
 
-## Developing
+2. Run the dev server
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
+```
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
+3. Or build and preview:
 
-To create a production version of your app:
-
-```sh
+```
 npm run build
+npm run preview
 ```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
