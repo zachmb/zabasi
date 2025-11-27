@@ -34,8 +34,6 @@
                 <ul class="menu menu-horizontal gap-2 px-1">
                     <li class="font-medium"><a href="#home">Home</a></li>
                     <li class="font-medium"><a href="#features">Properties</a></li>
-                    <li class="font-medium"><a href="#integrations">Tools</a></li>
-                    <li class="font-medium"><a href="#pricing">Consulting</a></li>
                     <li class="font-medium"><a href="#faq">FAQ</a></li>
                 </ul>
             </div>

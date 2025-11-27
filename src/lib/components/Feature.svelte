@@ -26,11 +26,11 @@
                     <div class="badge badge-soft badge-primary">Website</div>
                     <h3 class="mt-3 text-xl font-medium sm:text-2xl">Kazwire</h3>
                     <p class="text-base-content/80 mt-1">
-                        One of the largest web-gaming platforms in the world, with over 3 million users.
+                        The only web-gaming site (we're not joking) with a sustained UGC team -- that operates at sub $0.50 CPM.
                     </p>
                     <ul class="mt-4 list-inside list-disc">
                         <li>Sub $0.50 CPM UGC team</li>
-                        <li>Over 3,800,000 million users</li>
+                        <li>Over 3,800,000 users</li>
                         <li>Over 120,000,000 page views</li>
                         <li>Efficient load-balancing and performance optimized</li>
                     </ul>
