@@ -42,8 +42,7 @@
                     <div class="badge badge-soft badge-secondary">iOS App</div>
                     <h3 class="mt-3 text-xl font-medium sm:text-2xl">LoopLess</h3>
                     <p class="text-base-content/80 mt-1">
-                        Streamline operations with our SaaS platform manage users, projects, and resources in one place,
-                        with real-time insights and optimized workflows.
+                        A first-of-its-kind science based screen time reduction app that actually works. 4.7 stars and viral social media success.
                     </p>
 
                     <ul class="mt-4 list-inside list-disc">
